@@ -1,4 +1,4 @@
-/*! Hello github
+/*! Hello github richu
  * Datepicker v0.6.5
  * https://github.com/fengyuanchen/datepicker
  *
